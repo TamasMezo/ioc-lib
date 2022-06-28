@@ -1,0 +1,2 @@
+export { InjectDependency } from './injectDependency';
+

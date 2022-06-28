@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "strictPropertyInitialization": false,
+      "experimentalDecorators": true,
+      "target": "ES2015",
+      "moduleResolution":"node",
+      "types": [
+        "node",
+        "jest"
+      ],
+    },  
+}
